@@ -1,58 +1,91 @@
-# Hi there, I'm Adithyan Manoj 👋
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-### 🚀 Flutter & Python Developer | C Enthusiast | Computer Vision Explorer
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Adithyan Manoj</strong>
+</h1>
 
-I am a software developer passionate about building cross-platform mobile applications and exploring the world of computer vision. I enjoy working on projects that bridge the gap between creative tools and technical efficiency.
+<h3>Flutter Developer | Python • OpenCV • C Enthusiast</h3>
 
----
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-### 🛠️ Tech Stack & Tools
+  <p>
+    I'm a developer who enjoys building cross-platform mobile apps and diving into the world of Computer Vision. 
+    From creating interactive Flutter UIs to writing efficient logic in Python and C, I love exploring how code interacts with the real world.
+  </p>
 
-**Mobile & Frontend**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:adithyanmanoj1234@gmail.com"><img src="https://img.shields.io/badge/📧_adityamanoj19@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab-1e1e2e?style=for-the-badge" />
+  </p>
 
-**Programming & Logic**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📂 Featured Projects
-
-#### 🖼️ **Art Grid Maker**
-* **The Goal**: A desktop utility for artists to overlay customizable grids on reference images.
-* **The Tech**: Developed using **Python**, focusing on precise image manipulation.
-
-#### 👁️ **Object Detector**
-* **The Goal**: A real-time system capable of identifying and tracking multiple objects.
-* **The Tech**: Built with **Python** and **OpenCV**, utilizing pre-trained machine learning models.
-
-#### 🎨 **Colour Detector**
-* **The Goal**: An interactive tool to identify specific colors and their RGB/HEX values within an image.
-* **The Tech**: Leveraged **OpenCV** and Python for pixel-perfect color analysis.
-
----
-
-### 📈 GitHub Stats
+<h3>🌐 Socials</h3>
+  
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=adithyan-manoj&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyan-manoj&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/adithyan-manoj">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="YOUR_LINKEDIN_URL_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
----
+  <img src="https://komarev.com/ghpvc/?username=adithyan-manoj&style=flat-square&color=blue" alt="Profile Visit"/>
+</div>
 
-### 📫 Let's Connect:
-- **Email**: adithyanmanoj1234@gmail.com
-- **LinkedIn**: ""
+<br clear="all" />
+
+## 🛠️ Skills
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+ <img src="https://skillicons.dev/icons?i=python,dart,c,html,css" />
+<br/><br/>
+</td>
+
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=flutter,opencv" />
+</td>
+
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Environments</h3>
+    <img src="https://skillicons.dev/icons?i=linux,windows" />
+<br/><br/>
+</td>
+
+<td width="50%" align="center">
+    <h3>🧰 Tools</h3>
+    <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio" />
+</td>
+</tr>
+</table>
+</p>
+
+## 📂 Featured Projects
+
+* **Art Grid Maker**: A Python utility helping artists overlay grids on reference images with precision.
+* **Object Detector**: Real-time detection system using Python and OpenCV.
+* **Colour Detector**: An interactive OpenCV tool to identify and label colors from pixel data.
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=adithyan-manoj&theme=dark&hide_border=true" alt="Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adithyan-manoj&show_icons=true&theme=dark" alt="Stats" />
+</div>
 
 ---
 
 <p align="center">
-  <i>"Building the future, one widget and one line of C at a time."</i>
+  <i>"Always curious about what's happening under the hood."</i>
 </p>
