@@ -5,14 +5,14 @@
   Hi, I'm <strong>Adithyan Manoj</strong>
 </h1>
 
-<h3>Flutter Developer | Python • OpenCV • C Enthusiast</h3>
+<h3>Flutter Developer | Python • C Enthusiast</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a developer who enjoys building cross-platform mobile apps and diving into the world of Computer Vision. 
-    From creating interactive Flutter UIs to writing efficient logic in Python and C, I love exploring how code interacts with the real world.
+    I'm a developer who enjoys building cross-platform mobile apps and efficient backend logic. 
+    From creating interactive Flutter UIs to writing clean code in Python and C, I love exploring how software solves real-world problems.
   </p>
 
   <p>
@@ -50,7 +50,7 @@
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=flutter,opencv" />
+<img src="https://skillicons.dev/icons?i=flutter" />
 </td>
 
 </tr>
@@ -70,10 +70,7 @@
 </p>
 
 ## 📂 Featured Projects
-
-* **Art Grid Maker**: A Python utility helping artists overlay grids on reference images with precision.
-* **Object Detector**: Real-time detection system using Python and OpenCV.
-* **Colour Detector**: An interactive OpenCV tool to identify and label colors from pixel data.
+* *Check out my repositories below to see what I'm currently working on!*
 
 ## 📊 GitHub Stats
 
